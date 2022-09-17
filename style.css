@@ -9,7 +9,10 @@
     margin: 0 auto;
     text-align: center;
 }
-
+body{
+    background-image:url("bg_todo.jpg");
+    background-size: cover;
+}
 .todo-list h2{
     font-size: 42px;
     margin: 20px;
